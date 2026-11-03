@@ -6,8 +6,8 @@
 
 | ファイル | 内容 |
 |---|---|
-| [**HaitoBattle_v0.4.mcworld**](https://github.com/JOKER05www/-/raw/main/HaitoBattle_v0.4.mcworld) | 配布マップ（これを開けばすぐ遊べる） |
-| [HaitoBattle_v0.4.mcaddon](https://github.com/JOKER05www/-/raw/main/HaitoBattle_v0.4.mcaddon) | アドオンだけ（自分のワールドで使いたい人向け） |
+| [**HaitoBattle_v0.5.mcworld**](https://github.com/JOKER05www/-/raw/main/HaitoBattle_v0.5.mcworld) | 配布マップ（これを開けばすぐ遊べる） |
+| [HaitoBattle_v0.5.mcaddon](https://github.com/JOKER05www/-/raw/main/HaitoBattle_v0.5.mcaddon) | アドオンだけ（自分のワールドで使いたい人向け） |
 
 ダウンロードしたファイルをタップ（PCはダブルクリック）するとマイクラに読み込まれます。対応：統合版 1.21.90 以降（スマホ・Switch・PC）
 
@@ -50,6 +50,14 @@
 
 <details>
 <summary><b>アップデート情報</b></summary>
+
+### v0.5
+- 試合後の結果発表（キル・デス・ダメージ・回復・占領）と部門別MVP
+- 同点なら30秒の延長戦
+- 場外（穴から落ちたらアウト）、滅びた世界にジャンプ台（再生成で追加）
+- ファーストブラッド・連続キルの実況、技のダメージ表示（効果ばつぐん／いまひとつ）
+- ロビーに勝利数ランキング、絶技が使える人は足元が光る、ロビーでは殴ってもダメージなし
+- 不具合修正：NPCが味方を攻撃する／ステージが読み込まれずコア・NPC・モンスターが出ない／ウェーブ協力がすぐ終わる／バトルロイヤルで最初から安全地帯の外／NPCのキルが数えられない／試合が二重に始まる／PvPなしのモードでNPC同士が戦う／出撃直後の無敵が通常攻撃に効かない／試合後にチェストが残る など
 
 ### v0.4
 - 配布マップ（.mcworld）にした。ロビーに職業の間・チームの床・ミニゲーム・ステージの門
