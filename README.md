@@ -6,8 +6,8 @@
 
 | ファイル | 内容 |
 |---|---|
-| [**HaitoBattle_v0.6.mcworld**](https://github.com/JOKER05www/-/raw/main/HaitoBattle_v0.6.mcworld) | 配布マップ（これを開けばすぐ遊べる） |
-| [HaitoBattle_v0.6.mcaddon](https://github.com/JOKER05www/-/raw/main/HaitoBattle_v0.6.mcaddon) | アドオンだけ（自分のワールドで使いたい人向け） |
+| [**HaitoBattle_v0.6.1.mcworld**](https://github.com/JOKER05www/-/raw/main/HaitoBattle_v0.6.1.mcworld) | 配布マップ（これを開けばすぐ遊べる） |
+| [HaitoBattle_v0.6.1.mcaddon](https://github.com/JOKER05www/-/raw/main/HaitoBattle_v0.6.1.mcaddon) | アドオンだけ（自分のワールドで使いたい人向け） |
 
 ダウンロードしたファイルをタップ（PCはダブルクリック）するとマイクラに読み込まれます。対応：統合版 1.21.90 以降（スマホ・Switch・PC）
 
@@ -56,11 +56,13 @@
 <details>
 <summary><b>アップデート情報</b></summary>
 
+### v0.6.1
+- 職業の熟練度★をなくした
+
 ### v0.6
 - 新ステージ「天空の浮島」（ロビー南の右の門。古いワールドは管理の書の「ロビーを作り直す」で門が出ます）
 - 新モード「トレーニング」：動かない的で技の練習。MPとゲージがすぐ溜まる
 - ランダムイベント（流星群・得点2倍・回復の雨・絶技チャージ・強敵出現）。管理の書の設定でオン／オフ
-- 職業の熟練度★（その職業で3勝ごとに★、最大★5）
 - 不具合修正：同点のとき赤チームの勝ちになる／滅びた世界の地面に穴があく／試合開始直後にモンスターが消える／的やモンスターが場外に落ちても消えない／生成中の失敗で試合が始められなくなる など
 
 ### v0.5
